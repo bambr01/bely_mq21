@@ -343,11 +343,11 @@ footer p {
   background: linear-gradient(to bottom, #592cc9, #3c2678);
 }
 
-@media (min-width: 1921px) {
+/* @media (min-width: 1921px) {
   body {
     margin: 0 auto;
   }
-}
+} */
 
 @media (max-width: 320px) {
 
@@ -375,7 +375,6 @@ footer p {
     min-height: 35rem;
   }
 }
-
 
 @media (min-width: 321px) and (max-width: 768px) {
 
@@ -478,7 +477,7 @@ footer p {
     width: 90%;
     align-items: center;
     margin-top: 80px;
-}
+  }
 
   h3 {
     font-size: 50px;
@@ -505,7 +504,7 @@ footer p {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/athlete_320.png?raw=true") no-repeat center;
+  background: url("https://raw.githubusercontent.com/bambr01/bely_mq21/master/images/footballer_192.png") no-repeat center;
   width: 80%;
   height: 450px;
   }
@@ -514,7 +513,7 @@ footer p {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/player_320.png?raw=true") no-repeat center;
+  background: url("https://raw.githubusercontent.com/bambr01/bely_mq21/master/images/basketballer_302.png") no-repeat center;
   width: 90%;
   height: 420px;
   }
@@ -551,7 +550,7 @@ footer p {
   }
 }
 
-@media (max-width: 350px) {
+/* @media (max-width: 350px) {
 
    .footer_group article p {
     font-size: 12px;
@@ -560,7 +559,7 @@ footer p {
   .footer_group article h2 {
     font-size: 26px;
   }
- }
+} */
 
 @media (min-width: 641px) and (max-width: 960px) {
 
@@ -668,7 +667,7 @@ footer p {
     position: absolute;
     z-index: 1;
     content: "";
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/athlete_768.png?raw=true") no-repeat left;
+    background: url("https://raw.githubusercontent.com/bambr01/bely_mq21/master/images/footballer_497.png") no-repeat left;
     width: 100%;
     height: 780px;
     margin-top:2rem;
@@ -678,7 +677,7 @@ footer p {
     position: absolute;
     z-index: 1;
     content: "";
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/players_768.png?raw=true") no-repeat right;
+    background: url("https://raw.githubusercontent.com/bambr01/bely_mq21/master/images/basketballer_436.png") no-repeat right;
     width: 100%;
     height: 640px;
     margin-top: 0;
@@ -716,7 +715,7 @@ footer p {
   }
 }
 
-@media (min-width: 641px) and (max-width: 790px) {
+/* @media (min-width: 641px) and (max-width: 790px) {
 
   footer p {
     font-size: 24px;
@@ -729,7 +728,7 @@ footer p {
   footer h2 {
     font-size: 60px;
   }
-}
+} */
 
 @media (min-width: 961px)  {
 
@@ -852,7 +851,7 @@ footer p {
     position: absolute;
     z-index: 1;
     content: "";
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/athlete_desktop.png?raw=true") no-repeat;
+    background: url("https://raw.githubusercontent.com/bambr01/bely_mq21/master/images/footballer_566.png") no-repeat;
     width: 60%;
     height: 1000px;
     left: 0;
@@ -862,7 +861,7 @@ footer p {
     position: absolute;
     z-index: 1;
     content: "";
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/player_desktop.png?raw=true") no-repeat right;
+    background: url("https://raw.githubusercontent.com/bambr01/bely_mq21/master/images/basketballer_991.png") no-repeat right;
     width: 100%;
     height: 780px;
     right: 0;
@@ -918,7 +917,7 @@ footer p {
   }
 }
 
-@media (min-width: 961px) and (max-width: 1130px) {
+/* @media (min-width: 961px) and (max-width: 1130px) {
 
   footer h2 {
     font-size: 64px;
@@ -927,4 +926,4 @@ footer p {
     footer p {
     font-size: 24px;
   }
-}
+} */
